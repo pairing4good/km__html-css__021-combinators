@@ -1,10 +1,12 @@
-# 020 Display
+# 021 Combinators
 
-[![020 Display](https://img.youtube.com/vi/S9SGnWGTL24/0.jpg)](https://www.youtube.com/watch?v=S9SGnWGTL24)
+[![021 Combinators](https://img.youtube.com/vi/SXeC5wSuKOE/0.jpg)](https://www.youtube.com/watch?v=SXeC5wSuKOE)
 
 The `index.html` file
-- should style `same-line` class to display on the same line as the element above it
-- should style `next-line` class to display on the next line after the element above it
+- should style all descendant divs within span should should have orange text
+- should style all children divs of span should should have large text
+- should style all adjacent sibling divs of span should should have red text
+- should style all sibling divs of span should should a yellow background
 
 Resources:
-- https://www.w3schools.com/cssref/pr_class_display.asp
+- https://www.w3schools.com/css/css_combinators.asp
